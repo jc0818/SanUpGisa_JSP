@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+header{
+	
+	text-align: center;
+    background-color: antiquewhite;
+    padding: 10px 0px 10px 10px;
+    font-size: 35px;
+    top: 0px;
+    margin: 0;
+}
+nav{
+	background-color: rgb(226, 190, 95);
+	
+	padding: 4px 0px 4px 10px;
+	margin: 0;
+}
+nav > a{
+	text-decoration: none;
+	color: black;
+}
+
+footer{
+	width: 100%;				
+    position: fixed;		
+    bottom: 0px;			
+    color: #fff;				
+    text-align: center;			
+    background: #000;
+}
